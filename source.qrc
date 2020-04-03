@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="l.0">
+    <qresource prefix="/">
+        <file alias="penis.png">penis.png</file>
+    </qresource>
+</RCC>
